@@ -78,8 +78,6 @@ const sprite = () => {
     .pipe(gulp.dest('build/img'));
 }
 
-
-
 //Copy
 const copy = (done) => {
   gulp.src([

@@ -1,4 +1,4 @@
-# Quantum system
+# Quantum System
 
 Description: Quantum System landing-page.
 
